@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manishpirabu
-- 👀 I’m interested in web development 
+- 👀 I’m interested in data analyst
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail
 
 <!---
